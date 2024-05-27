@@ -3,7 +3,6 @@ package sberTasks;
 import java.util.Arrays;
 import java.util.Collection;
 
-// JAVA DOK ПОТОМ ИЗМЕНИТЬ
 public class GreetingImpl implements Greeting{
     /**
      * Имя пользователя.
