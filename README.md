@@ -1,1 +1,11 @@
-The develop branch as an indicator for a possible pull request
+Lesson 02. Types. Loops. JUnit. Mockito.
+Интерфейс ru.sberbank.jd.lesson02.Nod позволяет вычислить (метод сalculate) наибольший общий делитель двух целых числел.
+
+Напишите класс NodImpl, который реализует интерфейс ru.sberbank.jd.lesson02.Nod.
+
+Критерии приемки
+Проект должен собираться (у чекстайла не должно быть предупреждений)
+Класс должен быть протестирован с помощью JUnit на предмет возвращаемых значений.
+Прислать PR из ветви feature/lesson02 в ветку develop (созданную от master) в вашем репозитории.
+Cсылку на PR отправить в личным сообщением в телеграмм @vmnaumov.
+Ко всем методам и должны быть написаны java docs.
